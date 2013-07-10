@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reading Light</string>
+    <string name="action_about">About</string>
+    <string name="menu_message">To lock/unlock screen keep pressed on screen.</string>
+
+</resources>

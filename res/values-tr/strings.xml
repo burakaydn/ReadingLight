@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Okuma Işığı</string>
+    <string name="action_about">Hakkında</string>
+    <string name="menu_message">Işık kilidini açmak ya da kapamak için ekrana basılı tutabilirsiniz.</string>
+    
+</resources>
